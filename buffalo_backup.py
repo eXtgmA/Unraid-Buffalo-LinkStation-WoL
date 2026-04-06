@@ -11,7 +11,6 @@ import threading
 MAC = "12:34:56:A8:CD:DE"             # MAC of LinkStation
 DEST_IP = "192.168.XXX.XXX"           # IP of LinkStation
 BROADCAST_IP = "192.168.XXX.255"      # Your Broadcast IP
-MAC = "12:34:56:A8:CD:DE"             # Your LinkStation MAC
 
 # SMB SETTINGS
 REMOTE_SHARE_NAME = "share"           # The folder name ON the Buffalo NAS
